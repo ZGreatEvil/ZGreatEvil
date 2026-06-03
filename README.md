@@ -77,13 +77,4 @@ I also love object-oriented design, machine learning and data mining, and I'm an
 
 ---
 
-### 📊 GitHub
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ZGreatEvil&show_icons=true&hide_border=true&title_color=8B7FE8&icon_color=8B7FE8&text_color=6E695F&bg_color=FBFAF6" alt="Clara's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZGreatEvil&layout=compact&hide_border=true&title_color=8B7FE8&text_color=6E695F&bg_color=FBFAF6" alt="Top languages" />
-</p>
-
----
-
 <p align="center"><sub>Open to internships · 2026 — let's build something together.</sub></p>
