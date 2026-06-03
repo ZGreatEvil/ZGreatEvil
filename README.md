@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Exchange-Sejong_Univ._Seoul-1B1A24?style=flat-square&labelColor=15140F" alt="Exchange at Sejong" />
 </p>
 
+<p align="center">
+  <a href="https://zgreatevil.github.io/ZGreatEvil/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Portfolio-C5BCF0?style=for-the-badge&labelColor=15140F" alt="Live Portfolio" /></a>
+</p>
+
 ---
 
 ### 👋 About
@@ -19,6 +23,7 @@ I also love object-oriented design, machine learning and data mining, and I'm an
 - 🗄️ **Focus:** Backend &amp; Databases
 - 🧩 **Also into:** OOP · Machine Learning · Data Mining · Cloud
 - 🌏 **Speaks:** English (IELTS 7.5) · Indonesian
+- 🌐 **Portfolio:** [zgreatevil.github.io/ZGreatEvil](https://zgreatevil.github.io/ZGreatEvil/)
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/clara-jessica-949342249/)
 
 ---
